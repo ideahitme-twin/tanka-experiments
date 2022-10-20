@@ -1,0 +1,7 @@
+{
+    "apps-v1.Deployment-grafana.yaml": "environments/prom-grafana/dev/main.jsonnet",
+    "apps-v1.Deployment-prometheus.yaml": "environments/prom-grafana/dev/main.jsonnet",
+    "v1.Namespace-prom-grafana-dev.yaml": "environments/prom-grafana/dev/main.jsonnet",
+    "v1.Service-grafana.yaml": "environments/prom-grafana/dev/main.jsonnet",
+    "v1.Service-prometheus.yaml": "environments/prom-grafana/dev/main.jsonnet"
+}
